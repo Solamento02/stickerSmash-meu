@@ -2,8 +2,6 @@
 I'm just trainning this code from Expo's Tutorial, can be found out on: <a href="https://docs.expo.dev/tutorial/introduction/"> Expo Tutorial </a> </br>
 ### ⚠️Warning:
 I didn't finished the code yet, cuz I found out a bug, some phones doesn't open the gallery
-# Update
-I gave up of this app because of the bug
 
 ### If you want mess up with my code, requirements:
 [<img title="Node.js" alt="Node.js" height=40px width=40px src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" />](https://nodejs.org)
@@ -14,3 +12,5 @@ Download it, and use the command:
 ```bash
 npm install
 ```
+# Update
+I gave up of this app because of the bug
